@@ -28,5 +28,3 @@ ETL-based fashion data analysis project using Python, MySQL, and Power BI to ext
 -Higher price does not always lead to higher ratings
 -Some brands consistently perform better in ratings
 -Colour preferences show strong dominance of specific shades
-=======
->>>>>>> 6d6cc77e46396b4561b86e4bf5f1f70b0e2d4c7c
